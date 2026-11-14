@@ -20,15 +20,15 @@ version is out.
   Mac, so a line you remember is enough to find it.
 - **Named and tagged** — add a free Google Gemini key and every image gets
   tags, a description and a proper name. Optional.
-- **Folders, tags and colours** — group by project, filter by tag, and copy
-  the main colours of any image.
+- **Folders, tags and colors** — group by project, filter by tag, and copy
+  the main colors of any image.
 
 ## Privacy
 
 Your library lives in a folder you choose. There is no account, no sync and
 no Joltr server.
 
-- Text recognition, colour extraction and search all run on your Mac.
+- Text recognition, color extraction and search all run on your Mac.
 - If you add a Gemini API key, the images you import are sent to Google's
   Gemini API for tagging. Without a key, no image leaves your Mac.
 - On launch, Joltr asks GitHub whether a newer release exists.
