@@ -2,9 +2,10 @@
 
 **Capture what moves you the moment you see it. Joltr organizes and finds it for you.**
 
-Joltr is a library for your screenshots and images on macOS. It captures from
-anywhere on your Mac, reads the text inside every image so you can search by
-what it says, and keeps everything in a folder on your own machine.
+Joltr is a private Mac library for everything that inspires you: posters,
+interfaces, type, color, anything you see on your screen. Capture it or drop it
+in, and Joltr reads the text inside it so you can find it by what it says. It
+all stays in a folder on your own machine.
 
 [**Download for macOS**](https://github.com/rosanusi/joltr-releases/releases/latest) · macOS 11 or later · Apple Silicon and Intel
 
